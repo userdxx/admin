@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f22bb8d-e9cd-4c29-9b5b-184139702339" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../public/datasets/launch-saas.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/datasets/launch-saas.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/app.config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/app.config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/browser.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/browser.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/browser.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/browser.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/helper.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/helper.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/helper.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/helper.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/lib/TrialPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/lib/TrialPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/lib/TrialPanel.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/lib/TrialPanel.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/lib/TrialPanel.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/lib/TrialPanel.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/resources/browser.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/resources/browser.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/browser/resources/browser.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/browser/resources/browser.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/data/examples.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/data/examples.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/data/examples.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/data/examples.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/data/examples.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/data/examples.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/data/widget.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/data/widget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/data/widget.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/data/widget.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/data/widget.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/data/widget.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/dummy.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/dummy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/dummy.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/dummy.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/dummy.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/dummy.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/images/users/images.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/images/users/images.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/images/woodsmall.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/images/woodsmall.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/module.php" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/module.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/scripts/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/scripts/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/app.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/app.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/downloader.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/downloader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/cert/server.crt" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/cert/server.crt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/cert/server.key" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/cert/server.key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/commands.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/queue.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/queue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/server/ExportServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/server/ExportServer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/server/WebServer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/server/WebServer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/utils/screenshot.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/utils/screenshot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/utils/simulate_page_crash.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/utils/simulate_page_crash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/src/utils/wait_conditions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/src/utils/wait_conditions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/failing_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/failing_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/licenses.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/licenses.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/parallel.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/parallel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/parallel2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/parallel2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/samples/parallel/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/samples/parallel/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/samples/smoke/base_https.pdf.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/samples/smoke/base_https.pdf.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/samples/smoke/base_https.png.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/samples/smoke/base_https.png.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/smoke.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/smoke.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/server/tests/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/shared.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/shared.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/shared.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/shared.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/shared.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/shared.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/_shared/shared.umd.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/_shared/shared.umd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/fonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/fonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.dark.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.default.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.light.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.material.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.material.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.module.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/gantt.module.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.stockholm.css" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/gantt.stockholm.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.stockholm.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.umd.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/gantt.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.En.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.En.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.Nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.Nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.Ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.Ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.SvSE.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.SvSE.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.examples.Nl.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.examples.Nl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.examples.Ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.examples.Ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.examples.SvSE.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/locales/gantt.locale.examples.SvSE.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/gantt/build/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../public/gantt/build/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Panel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Panel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/gantt/ganttConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/gantt/ganttConfig.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/GanttToolbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/GanttToolbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/VueProcessEditor/Flow/customNode.js" beforeDir="false" afterPath="$PROJECT_DIR$/views/VueProcessEditor/Flow/customNode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/flow/panel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/views/flow/panel.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cTxnhvHplON0A7w3aQKBEdjzkB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f22bb8d-e9cd-4c29-9b5b-184139702339" name="Default Changelist" comment="" />
+      <created>1590566553242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590566553242</updated>
+      <workItem from="1590566561800" duration="6000" />
+      <workItem from="1590566587664" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
